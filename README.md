@@ -1,5 +1,7 @@
 # DeepFaceLab Project
 
+Followed the online tutorial on https://www.deepfakevfx.com/guides/deepfacelab-2-0-guide/ in order to make deep fake video. These were the steps taken. PLEASE DO TAKE NOTE of installing the appropriate libraries refer to : Troubleshooting GPU Detection section for this. We ran into this problem ourselves and it caused a lot of problems. At some point the process timed out so please refer to Note on GPU Process Time in order to make the appropriate changes so the process keeps running.
+
 ## System Configuration
 
 - **OS:** Linux Mint
@@ -17,7 +19,7 @@
 #### Install DeepFaceLab
 
 1. **Check for Compatible Versions:**
-   - Check the latest cuDNN and CUDA Toolkit versions for your GPU device at [TensorFlow Tested build configurations](https://www.tensorflow.org/install/source#tested_build_configurations).
+   - Check the latest cuDNN and CUDA Toolkit versions for your GPU device at [TensorFlow Tested Build Configurations](https://www.tensorflow.org/install/source#tested_build_configurations).
    - Check your CUDA version and then search for compatible versions using:
      ```sh
      conda search cudnn
