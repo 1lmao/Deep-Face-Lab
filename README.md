@@ -34,7 +34,7 @@ Followed the online tutorial on https://www.deepfakevfx.com/guides/deepfacelab-2
      ```
    - Example:
      ```sh
-     conda create -n deepfacelab -c main python=3.7 cudnn=7.6.5 cudatoolkit=10.2.89 tensorflow-gpu=2.4.1
+     conda create -n deepfacelab python=3.7 cudnn=7.6.5 cudatoolkit=10.1 tensorflow-gpu=2.4.1
      ```
 
 3. **Activate Environment and Clone Repositories:**
