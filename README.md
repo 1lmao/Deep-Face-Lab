@@ -136,7 +136,7 @@ These lines ensure that the CUDA binaries are in your PATH and that the necessar
   #### [Step 2: Extract Source Frame Images from Video](https://www.deepfakevfx.com/guides/deepfacelab-2-0-guide/#step-3-extract-destination-frame-images-from-video)
   Run below command
   ```sh
-  ./2_extract_image_from_data_src
+  ./2_extract_image_from_data_src.sh
   ```
 
   #### [Step 3: Extract Destination Frame Images from Video](https://www.deepfakevfx.com/guides/deepfacelab-2-0-guide/#step-3-extract-destination-frame-images-from-video)
