@@ -179,7 +179,7 @@ These lines ensure that the CUDA binaries are in your PATH and that the necessar
 
 
   ##### [Step 4.2: Source Faceset Sorting & Cleanup](https://www.deepfakevfx.com/guides/deepfacelab-2-0-guide/#step-4-2-source-faceset-sorting-cleanup)
-  Run below commnad
+  Run below command
 
   ```sh
   ./4.2_data_src_sort.sh
@@ -202,7 +202,7 @@ These lines ensure that the CUDA binaries are in your PATH and that the necessar
 
 
   ##### [Step 5.2: Source Faceset Sorting & Cleanup](https://www.deepfakevfx.com/guides/deepfacelab-2-0-guide/#step-5-2-destination-faceset-sorting-cleanup-re-extraction)
-  Run below commnad
+  Run below command
 
   ```sh
   ./5.2_data_dst_sort.sh
@@ -214,7 +214,7 @@ These lines ensure that the CUDA binaries are in your PATH and that the necessar
   ##### [Step 5.3: XSeg Mask Labeling & XSeg Model Training](https://www.deepfakevfx.com/guides/deepfacelab-2-0-guide/#step-5-3-xseg-mask-labeling-xseg-model-training)
 
 
-  Run below commnads
+  Run below commands
 
   ```sh
   
