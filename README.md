@@ -232,7 +232,7 @@ These lines ensure that the CUDA binaries are in your PATH and that the necessar
   ./5_XSeg_data_src_mask_apply.sh
   ./5_XSeg_data_src_trained_mask_remove.sh
 
-  ./5_XSeg_train
+  ./5_XSeg_train.sh
   ./5_XSeg_generic_wf_data_dst_apply.sh
   ./5_XSeg_generic_wf_data_src_apply.sh
   ```
