@@ -1,3 +1,5 @@
+![DeepFaceLab Result](output_small.gif)
+
 # DeepFaceLab Project
 
 Followed the online tutorial on https://www.deepfakevfx.com/guides/deepfacelab-2-0-guide/ in order to make deep fake video. These were the steps taken. PLEASE DO TAKE NOTE of installing the appropriate libraries refer to : Troubleshooting GPU Detection section for this. We ran into this problem ourselves and it caused a lot of problems. At some point the process timed out so please refer to Note on GPU Process Time in order to make the appropriate changes so the process keeps running.
